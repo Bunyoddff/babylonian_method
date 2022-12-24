@@ -14,6 +14,4 @@ def main(S, d):
         float: result
     '''
     return float(x)
-S=16
-d=4
 print(main(16,4))
